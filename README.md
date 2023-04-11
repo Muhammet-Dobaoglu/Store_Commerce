@@ -5,5 +5,4 @@
 <img width="2628" alt="Ekran Resmi 2023-04-11 18 25 45" src="https://user-images.githubusercontent.com/106467744/231213431-bfa1838b-acf9-407d-a0cd-4b4a0751ba78.png">
 <img width="2628" alt="Ekran Resmi 2023-04-11 18 26 03" src="https://user-images.githubusercontent.com/106467744/231213454-cb83af27-24b1-4a60-ae6a-e4cff7e4525e.png">
 <img width="2253" alt="Ekran Resmi 2023-04-11 18 36 20" src="https://user-images.githubusercontent.com/106467744/231214989-5313db3e-054c-4b36-ab68-bb20af53bb25.png">
-<img width="2253" alt="Ekran Resmi 2023-04-11 18 36 20" src="https://user-images.githubusercontent.com/106467744/231215082-0bf0645a-1b7a-4aab-bb5b-df8aed66cca7.png">
 <img width="2250" alt="Ekran Resmi 2023-04-11 18 36 49" src="https://user-images.githubusercontent.com/106467744/231215092-24f1d92c-db23-4c33-9ddb-d083ec1684eb.png">
