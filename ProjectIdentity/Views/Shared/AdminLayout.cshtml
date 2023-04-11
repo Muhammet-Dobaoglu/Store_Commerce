@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Html.PartialAsync("~/Views/Default/PartialView/HeadPartialView.cshtml")
+
+<body class="g-sidenav-show bg-gray-100">
+
+
+    @await Html.PartialAsync("~/Views/Default/PartialView/SidebarPartialView.cshtml")
+
+    <div class="main-content position-relative bg-gray-100 max-height-vh-100 h-100">
+
+
+       
+        @RenderBody()
+
+
+    </div>
+
+    @await Html.PartialAsync("~/Views/Default/PartialView/ScriptPartialView.cshtml")
+</body>
+
+</html>
+
