@@ -18,3 +18,6 @@ namespace EntityLayer.Concrete
         public DateTime Date { get; set; }
     }
 }
+
+
+
